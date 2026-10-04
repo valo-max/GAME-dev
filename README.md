@@ -95,60 +95,11 @@ A fast-paced 3D driving prototype focused on movement, obstacle avoidance, and s
 
 ## Technical Skills
 
-### Game Development
 * Unity
 * C#
-* 3D Gameplay Programming
-* Character Controllers
-* Third-Person Controllers
-* Game State Management
-* Physics & Collision Systems
-* Interaction Systems
-
-### Game AI
-* Unity NavMesh
-* Enemy Pathfinding
-* Target Detection
-* Enemy Chase Behaviour
-* Enemy Attack Behaviour
-* Boss AI & Attack Patterns
-* Wave-Based Enemy Systems
-
-### Combat Systems
-* Raycast-based shooting
-* Weapon systems
-* Damage & health systems
-* Health bars
-* Ammunition systems
-* Hit detection
-* Respawn systems
-* Boss encounters
-
-### Animation
-* Unity Animator
-* Blend Trees
-* Animation State Machines
-* Mixamo
-* Character animation integration
-* Combat animations
-
-### Visual Development
 * 3D Environment Design
-* Lighting & Atmosphere
 * VFX & Particle Systems
-* Environmental Props
-* Camera Composition
-* Blender
 * 3D Asset Integration
-
-### UI
-* Unity UI
-* TextMeshPro
-* HUD systems
-* Health & ammo displays
-* Objective prompts
-* Menus
-* Game-over / victory states
 
 ---
 
@@ -206,17 +157,9 @@ Gameplay clips and development demonstrations:
 ## What I'm Currently Exploring
 
 I'm continuing to expand my skills in:
-* Advanced enemy AI
-* More complex boss behaviours
-* Better combat systems
 * Advanced animation systems
 * 3D environment art
 * VFX and game feel
-* Game optimization
-* Procedural gameplay systems
-* AI-driven gameplay
-
-My long-term goal is to combine strong gameplay programming with high-quality visual presentation to create polished 3D game experiences.
 
 ---
 
@@ -234,8 +177,5 @@ Game development started as something I explored alongside academics, but it has
 ## Links
 
 * **[itch.io](https://silentatharv90.itch.io/)**
-* **[GitHub](https://github.com/valo-max)**
-* **[IIT Delhi](https://home.iitd.ac.in/)**
 
 Thanks for checking out my work!  
-I'm always experimenting, building, and learning something new. If you're interested in game development, feel free to explore the projects above.
